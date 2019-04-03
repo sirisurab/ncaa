@@ -1,0 +1,10 @@
+.idea/
+notebooks/.ipynb_checkpoints/
+notebooks/catboost_info/
+notebooks/dask-worker-space/
+src/__pycache__/
+src/utils/__pycache__/
+build.sh
+Dockerfile
+Dockerfile_base
+docker-compose.yml
